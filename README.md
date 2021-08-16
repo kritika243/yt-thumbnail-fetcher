@@ -1,7 +1,7 @@
 # YouTube Thumbnail Fetcher
 
 Through this app, you can fetch the thumbnail of any YouTube video using it's URL.
-![App Screenshot]()
+![App Screenshot](https://github.com/kritika243/yt-thumbnail-fetcher/blob/main/app.png)
 
 ## How it Works
 
